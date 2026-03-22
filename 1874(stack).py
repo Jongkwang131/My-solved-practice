@@ -6,7 +6,7 @@ import sys
 input = sys.stdin.readline
 n = int(input())
 stack = []
-count = 0
+count = 1
 ans = []
 possible = True
 

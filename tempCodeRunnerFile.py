@@ -1,1 +1,1 @@
-            print("No")
+     for neighbor in graph(current) :
